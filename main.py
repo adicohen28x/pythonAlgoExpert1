@@ -1,0 +1,1 @@
+def sumTwo(array, sum)
